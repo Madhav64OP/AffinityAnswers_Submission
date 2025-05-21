@@ -4,8 +4,9 @@
 
 ### Solutions
 
->For [Question 1](./question_1/)
->For [Question 2](./question_2/)
+For [Question 1](./question_1/)
+<br>
+For [Question 2](./question_2/)
 
 ## How To Run
 
